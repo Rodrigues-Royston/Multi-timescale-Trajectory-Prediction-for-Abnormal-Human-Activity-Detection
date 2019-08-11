@@ -2,4 +2,4 @@
 
 ![GitHub Logo](Image_Abnormal.PNG)
 
-Codes will be released soon. Feel free to contact me for queries regarding this work. My email id is royston.rodrigues@protonmail.com
+Codes will be released soon. Feel free to contact me on my email royston.rodrigues@protonmail.com for queries regarding this work. 
