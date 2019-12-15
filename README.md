@@ -2,7 +2,7 @@
 
 ![GitHub Logo](Image_Abnormal.PNG)
 
-Our newly proposed dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. This repository will contain the implementation of the approach described in the paper,  
+The IITB-Corridor dataset is now available for download. Kindly, contact me at royston.rodrigues@protonmail.com to request for a download link. This repository will contain the implementation of the approach described in the paper,  
 ```markdown
 @article{rodrigues2019multi,
   title={Multi-timescale Trajectory Prediction for Abnormal Human Activity Detection},
